@@ -3,31 +3,42 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 我的博客
+subtitle: '欢迎光临👏🏻👏🏻👏🏻👏🏻'
+description: '记录日常的一些东西'
+keywords: 博客
+author:  Dxc123
+language: zh
+#网站时区
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://Dxc123.github.io/project
+#文章的 永久链接 格式
 permalink: :year/:month/:day/:title/
+#永久链接中各部分的默认值
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
+##Source 文件夹 存储内容的位置
 source_dir: source
+##Public 文件夹 生成静态站点的位置
 public_dir: public
+##标签文件夹
 tag_dir: tags
+##归档文件夹
 archive_dir: archives
+##分类文件夹
 category_dir: categories
+##Include code 文件夹，source_dir 下的子目录
 code_dir: downloads/code
+##国际化（i18n）文件夹
 i18n_dir: :lang
+##匹配到的文件将会被不做改动地复制到 public 目录中。 您可使用 glob 表达式来匹配路径。
 skip_render:
 
 # Writing
@@ -101,4 +112,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repository: https://github.com/Dxc123/Dxc123.github.io.git
+  branch: main
