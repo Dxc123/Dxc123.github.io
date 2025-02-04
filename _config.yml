@@ -127,19 +127,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape  #默认的主题名称。 值为false时禁用主题
-# theme: next #https://github.com/iissnan/hexo-theme-next
-# theme: cactus #https://github.com/probberechts/hexo-theme-cactus
-# theme_config:
-#   colorscheme: white
-#   # colorscheme: light
-#   # colorscheme: dark
-#   # colorscheme: classic
+# theme: landscape  #默认的主题名称。 值为false时禁用主题
+theme: cactus #https://github.com/probberechts/hexo-theme-cactus
+theme_config:
+  colorscheme: white
+  # colorscheme: light
+  # colorscheme: dark
+  # colorscheme: classic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 #部署部分的设置
 deploy:
-  type: 'git'
-  repository: https://github.com/Dxc123/Dxc123.github.io.git
+  type: git
+  repository:  #https://github.com/Dxc123/Dxc123.github.io
   branch: main
