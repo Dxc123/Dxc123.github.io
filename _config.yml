@@ -128,12 +128,13 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape  #当前主题名称。 值为false时禁用主题
-theme: cactus #https://github.com/probberechts/hexo-theme-cactus
-theme_config:
-  colorscheme: white
-  # colorscheme: light
-  # colorscheme: dark
-  # colorscheme: classic
+theme: next #https://github.com/iissnan/hexo-theme-next
+# theme: cactus #https://github.com/probberechts/hexo-theme-cactus
+# theme_config:
+#   colorscheme: white
+#   # colorscheme: light
+#   # colorscheme: dark
+#   # colorscheme: classic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
