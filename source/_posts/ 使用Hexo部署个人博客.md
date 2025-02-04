@@ -1,7 +1,8 @@
 ---
 created: 2025-02-03T21:55
-updated: 2025-02-04T14:09
+updated: 2025-02-04T15:56
 title: 使用Hexo部署个人博客
+date: 2025/02/03 21:56
 ---
 [Hexo官方文档](https://hexo.io/zh-cn/docs/)
 
