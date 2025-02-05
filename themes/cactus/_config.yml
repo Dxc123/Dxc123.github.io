@@ -5,14 +5,17 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
+## 链接到概述您所有项目的页面。
 projects_url: https://github.com/dxc123
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
+##将页面方向设置为 RTL 或 LTR。默认为 LTR。（如果将其设置为“rtl”，则将加载“vazir”字体。）
 direction: ltr
 # Configure the navigation menu.
 # A pair 'Key: url' will result in a link to 'url' with the name 'Key' in the
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
+### 配置导航菜单。
 nav:
   home: /
   about: /about/
@@ -76,8 +79,8 @@ archive:
 # Customize the article view.
 # Options:
 #   - show_updated: show the last modification date.
-post:
-  show_updated: false
+post: #自定义文章视图。
+  show_updated: false #是否显示最后修改日期。
 
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
