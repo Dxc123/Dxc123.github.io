@@ -1,6 +1,6 @@
 ---
 created: 2025-02-03T21:55
-updated: 2025-02-04T15:56
+updated: 2025-02-05T11:20
 title: 使用Hexo部署个人博客
 date: 2025/02/03 21:56
 tags:
@@ -18,6 +18,13 @@ hexo new <title>
 
     hexo new page --path about/me
 此时 Hexo 会创建 `source/_posts/about/me.md`
+
+```
+hexo new page tags
+  会创建source/tags/index.md
+hexo new page categories
+  会创建source/categories/index.md
+```
 
 生成静态文件:
 ```

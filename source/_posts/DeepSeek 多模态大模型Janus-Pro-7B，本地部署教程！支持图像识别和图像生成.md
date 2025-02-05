@@ -1,6 +1,6 @@
 ---
 created: 2025-02-01T19:54
-updated: 2025-02-04T15:56
+updated: 2025-02-05T11:06
 title: DeepSeek 多模态大模型Janus-Pro-7B，本地部署教程！支持图像识别和图像生成
 date: 2025/02/01 19:54
 ---
