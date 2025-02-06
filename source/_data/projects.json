@@ -2,11 +2,11 @@
     {
        "name":"Hexo",
        "url":"https://hexo.io/",
-       "desc":"A fast, simple & powerful blog framework"
+       "desc":"一个快速、简单且强大的博客框架。"
     },
     {
-       "name":"Font Awesome",
-       "url":"http://fontawesome.io/",
-       "desc":"The iconic font and CSS toolkit"
+       "name":"Hexo主题",
+       "url":"https://github.com/probberechts/hexo-theme-cactus",
+       "desc":"适用于个人网站的响应式、干净且简单的Hexo主题。"
     }
 ]
