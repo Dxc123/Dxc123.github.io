@@ -5,7 +5,7 @@
        "desc":"一个快速、简单且强大的博客框架。"
     },
     {
-       "name":"Hexo主题",
+       "name":"hexo-theme-cactus",
        "url":"https://github.com/probberechts/hexo-theme-cactus",
        "desc":"适用于个人网站的响应式、干净且简单的Hexo主题。"
     }
