@@ -1,7 +1,7 @@
 ---
 created: 2025-02-05T15:32
-updated: 2025-02-05T15:54
-title: Mac 上 .md文件设置默认软件打开
+updated: 2025-02-17T11:47
+title: Mac 小技巧 -文件设置默认软件打开
 date: 2025-02-05 15:32
 tags:
   - Mac使用技巧
