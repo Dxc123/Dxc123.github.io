@@ -1,10 +1,11 @@
 ---
 created: 2025-02-03T15:11
-updated: 2025-02-17T11:35
+updated: 2025-03-04T11:28
 title: 通过 GitHub action 同步 obsidian 文章到 Hexo
 date: 2025/02/03 15:11
 tags:
   - Hexo博客
+  - GitHub
 categories:
   - Hexo博客
 ---
