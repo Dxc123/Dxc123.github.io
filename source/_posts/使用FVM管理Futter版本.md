@@ -1,6 +1,11 @@
 ---
 created: 2024-02-01T17:55
-updated: 2025-03-04T16:51
+updated: 2026-05-31T22:39
+title: 使用FVM管理Futter版本
+tags:
+  - FVM
+categories:
+  - FVM
 ---
 ## Flutter多版本管理工具fvm使用
 
