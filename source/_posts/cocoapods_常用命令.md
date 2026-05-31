@@ -1,4 +1,15 @@
+---
+created: 2026-05-28T00:48
+updated: 2026-05-31T22:29
+date: 2025/05/31
+tags:
+  - cocoapods
+---
 # CocoaPods 常用命令
+
+
+
+
 
 ## 1. 安装 CocoaPods
 

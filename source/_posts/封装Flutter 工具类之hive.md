@@ -1,6 +1,11 @@
 ---
 created: 2026-05-31T14:01
-updated: 2026-05-31T14:24
+updated: 2026-05-31T22:31
+date: 2015/05/31
+tags:
+  - 工具
+categories:
+  - 工具
 ---
 
 # Flutter 封装 Hive 工具类

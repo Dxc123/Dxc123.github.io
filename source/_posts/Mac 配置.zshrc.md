@@ -1,6 +1,9 @@
 ---
 created: 2026-05-28T00:34
-updated: 2026-05-30T22:41
+updated: 2026-05-31T22:30
+date: 2026/05/31
+tags:
+  - Mac配置
 ---
 
 ## Mac 中 `.zshrc` 配置 Ruby 路径以及 Homebrew 路径

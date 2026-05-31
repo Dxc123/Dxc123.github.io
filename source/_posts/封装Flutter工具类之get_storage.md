@@ -1,6 +1,9 @@
 ---
 created: 2026-05-31T13:50
-updated: 2026-05-31T13:58
+updated: 2026-05-31T22:29
+date: 2026/05/31
+tags:
+  - 工具
 ---
 # AppGetStorage 工具类
 
