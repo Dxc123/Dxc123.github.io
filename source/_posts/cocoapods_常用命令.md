@@ -1,9 +1,12 @@
 ---
 created: 2026-05-28T00:48
-updated: 2026-05-31T22:29
+updated: 2026-05-31T22:35
 date: 2025/05/31
 tags:
   - cocoapods
+categories:
+  - cocapods
+title: cocoapods_常用命令
 ---
 # CocoaPods 常用命令
 
